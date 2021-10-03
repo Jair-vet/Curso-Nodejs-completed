@@ -1,0 +1,28 @@
+{
+  "name": "03-bases_node",
+  "version": "0.0.1",
+  "description": "Es una Tabla de Multiplicar con Archivo de Texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jair-vet/03-bases-Node.git"
+  },
+  "author": "Jair Aceves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jair-vet/03-bases-Node/issues"
+  },
+  "homepage": "https://github.com/Jair-vet/03-bases-Node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1",
+    "yars": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
